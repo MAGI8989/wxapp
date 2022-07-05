@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "顾客评论",
+  "usingComponents": {
+    "tui-list-view": "/node-modules/thorui-uni/lib/thorui/tui-list-view/tui-list-view",
+    "tui-list-cell": "/node-modules/thorui-uni/lib/thorui/tui-list-cell/tui-list-cell",
+    "u-avatar": "/node-modules/uview-ui/components/u-avatar/u-avatar",
+    "u-rate": "/node-modules/uview-ui/components/u-rate/u-rate",
+    "u--textarea": "/node-modules/uview-ui/components/u--textarea/u--textarea"
+  }
+}

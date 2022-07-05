@@ -1,0 +1,19 @@
+
+.main.data-v-0be17cc6{display: table;background-color: #f3f4f5;height: 100vh;}
+.mycard.data-v-0be17cc6{width: 90%;margin-left: 5%;margin-top:2vh;padding-top:5vw;margin-right: 5%;height: 25vh;border-radius: 15px;border-radius: 15px;border: none;cursor: pointer;border-radius: 26rpx;box-shadow: 4px 4px 5px 2px rgb(122, 122, 122),-4px -4px 5px 2px #fff;-o-user-select: none;pointer-events: none;}
+.vip.data-v-0be17cc6{background-color: #202326;color: #fafafa;}
+.notvip.data-v-0be17cc6{background-color: #FED100;color: #202326;}
+.headbox.data-v-0be17cc6{display:flex;margin-left: 5vw;margin-right: 5vw;width: 100%;height: 30%;}
+.avatarbox.data-v-0be17cc6{width: auto;height: 15vw;}
+.nicknamebox.data-v-0be17cc6{width: 50vw;margin-left: 2vw;height: 15vw;}
+.nickname.data-v-0be17cc6{font-size: 40rpx;line-height: 15vw;float:left;align-items: center;}
+.integralbox.data-v-0be17cc6{width: auto;float: inline-end;height: 15vw;height: 15vw;padding-right: 5vw;margin-right: 5vw;}
+.integral.data-v-0be17cc6{font-size: 33rpx;float: inline-end;}
+.bodybox.data-v-0be17cc6{height: 70%;display: flex;justify-content: space-between;font-size: 33rpx;padding: 2vw;margin-top: auto;margin-bottom: 20rpx;}
+/* .phone{font-size: 33rpx;}
+.vipmessage{font-size: 33rpx;float: inline-end;} */
+.buttonbox.data-v-0be17cc6{width: 90%;margin-left: 5%;margin-right: 5%;height: auto;margin-top: 2vh;}
+.orderhistory.data-v-0be17cc6{width: 90%;margin-left: 5%;
+}
+
+

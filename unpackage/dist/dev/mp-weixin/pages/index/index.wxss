@@ -1,0 +1,15 @@
+
+.main{width: 100vw;height: 100vh;background-color: #dedede;position: absolute;}
+.head{width: 100vw;height: 50vh;}
+.bodybox{padding:0;width: 90vw;height: 20vh; margin-left: 5vw;margin-right: 5vw;margin-top:35vh;background-color: #fafafa;position: relative;z-index: 2;display: flex;border-radius: 24px;}
+.centerarea{width: 50%;height: 100%;border-radius: 24px;border: 0;padding: 0;margin: 0;display: flex;align-items: center;justify-self: center;}
+.centericon{width: 100%;height: 100%;margin-top: 30%;}
+.bottombox{width: 100vw;height:10vh;position: relative;z-index: 2;display: flex;padding-left: 5vw;margin-top: 2vh;padding-right: 5vw;}
+.bottomdivider{width: 6vw;height: 100%;}
+.bottomarea{width: 42vw;height: 100%;display: flex;border-radius: 15px;display: flex;align-items: center;justify-self: center;}
+.bottomicon{margin-left: 18%;}
+.mobilebox{width: 100%;display: flex;margin-top: 5vh;font-size: 25px;display: flex;align-items: center;justify-content: center;}
+.registerbutton{width: 100%;background-color: #07c160;color: #fafafa;border-radius: 10px;}
+.mobilemessage{width: auto;line-height: 3vh;}
+.mobileinput{width: 70%;line-height: 3vh;font-size: 25px;height: 3vh;}
+

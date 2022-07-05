@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "点单小程序",
+  "usingComponents": {
+    "tui-icon": "/node-modules/thorui-uni/lib/thorui/tui-icon/tui-icon",
+    "tui-list-view": "/node-modules/thorui-uni/lib/thorui/tui-list-view/tui-list-view",
+    "tui-list-cell": "/node-modules/thorui-uni/lib/thorui/tui-list-cell/tui-list-cell",
+    "tui-tag": "/node-modules/thorui-uni/lib/thorui/tui-tag/tui-tag",
+    "u-number-box": "/node-modules/uview-ui/components/u-number-box/u-number-box",
+    "tui-fab": "/node-modules/thorui-uni/lib/thorui/tui-fab/tui-fab",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "u-line": "/node-modules/uview-ui/components/u-line/u-line",
+    "u--textarea": "/node-modules/uview-ui/components/u--textarea/u--textarea",
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper",
+    "u-rate": "/node-modules/uview-ui/components/u-rate/u-rate",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}
